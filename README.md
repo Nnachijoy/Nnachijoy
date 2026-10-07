@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nnachi Joy
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on Frontend projects
+- 👀 I’m interested in everything coding
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me nnachijoychima2000@gmail.com
 
 <!---
